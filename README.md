@@ -33,6 +33,11 @@ app.config['SECRET_KEY'] = 'secret_key'
 >>> os.urandom(12).hex()
 ```
 
+### Install Package
+```
+pip install -r requirements.txt
+```
+
 ### Init Database and Migrate
 ```
 flask db init
