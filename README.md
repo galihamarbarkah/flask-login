@@ -17,7 +17,7 @@ python -m venv venv
 
 ### Activated environment
 ```
-source venv/bin/activated
+source venv/bin/activate
 ```
 
 ### configuration database and another in app/__init__.py
