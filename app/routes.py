@@ -1,5 +1,4 @@
 from flask import render_template, request, redirect, url_for, session
-from flask_bcrypt import Bcrypt
 from app import app, db
 from app.models import User
 import hashlib
