@@ -20,7 +20,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-### configuration database and another in app/__init__.py
+### configuration database and another in "app/__init__.py"
 ```
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://userdb:passworddb@localhost/database_name'
 app.config['TEMPLATES_AUTO_RELOAD'] = True #if dont need you can change to False
@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ```
 flask db init
 flask db migrate
+flask db upgrade
 ```
 
 ### run application
