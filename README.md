@@ -27,6 +27,12 @@ app.config['TEMPLATES_AUTO_RELOAD'] = True #if dont need you can change to False
 app.config['SECRET_KEY'] = 'secret_key'
 ```
 
+### for generate secret_key with python
+```
+>>> import os
+>>> os.urandom(12).hex()
+```
+
 ### Init Database and Migrate
 ```
 flask db init
