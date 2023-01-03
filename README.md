@@ -11,7 +11,8 @@ This is a simple Flask application to register and login (for development).
 
 ### Create virtual environment
 ```
-python -m venv
+pip install virtualenv
+python -m venv venv
 ```
 
 ### Activated environment
