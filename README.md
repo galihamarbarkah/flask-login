@@ -53,5 +53,14 @@ flask run -h 0.0.0.0
 you can access in http://localhost:5000
 
 ### result
-
+1. Homepage
 <img align="left" alt="Galih's Linkdein" src="https://cloud.bandaacehkota.go.id/index.php/apps/files_sharing/publicpreview/JJo7s6rfgWkK9Dt?x=1902&y=497&a=true&file=1.png&scalingup=0" />
+
+2. Register
+<img align="left" alt="Galih's Linkdein" src="https://cloud.bandaacehkota.go.id/index.php/apps/files_sharing/publicpreview/r5JAj5eWkRAkanM?x=1902&y=497&a=true&file=3.png&scalingup=0" />
+
+3. Login
+<img align="left" alt="Galih's Linkdein" src="https://cloud.bandaacehkota.go.id/index.php/apps/files_sharing/publicpreview/DjM9R6afqQ7mxyo?x=1902&y=497&a=true&file=2.png&scalingup=0" />
+
+4. Dashboard
+<img align="left" alt="Galih's Linkdein" src="https://cloud.bandaacehkota.go.id/index.php/apps/files_sharing/publicpreview/QJR8PGwp9JzCy5T?x=1902&y=497&a=true&file=4.png&scalingup=0" />
