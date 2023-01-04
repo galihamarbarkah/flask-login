@@ -47,7 +47,7 @@ flask db upgrade
 
 ### run application
 ```
-flask run
+flask run -h 0.0.0.0
 ```
 
 you can access in http://localhost:5000
