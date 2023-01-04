@@ -53,3 +53,5 @@ flask run -h 0.0.0.0
 you can access in http://localhost:5000
 
 ### result
+
+<img align="left" alt="Galih's Linkdein" src="https://cloud.bandaacehkota.go.id/index.php/apps/files_sharing/publicpreview/JJo7s6rfgWkK9Dt?x=1902&y=497&a=true&file=1.png&scalingup=0" />
